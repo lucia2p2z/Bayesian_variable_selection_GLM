@@ -16,7 +16,8 @@
 figures_*/
 figures*/
 *_figures*/
-.DStore
+*/.DS_Store
+.DS_Store
 */irls2_normal_start_glm/*
 */irls2_normal_start_zero/*
 */irls2_start_glm/*
