@@ -21,6 +21,8 @@ figures*/
 */irls2_normal_start_zero/*
 */irls2_start_glm/*
 */irls2_start_zero/*
+*/optim_start_zero/*
+*/optim_start_glm/*
 
 # Example code in package build process
 *-Ex.R
