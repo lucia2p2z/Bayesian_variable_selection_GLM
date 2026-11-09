@@ -1,4 +1,4 @@
-# Reproduce results of the Manuscript 
+# Bayesian Variable Selection in Generalized Linear Models
 This repo contains all the code needed to reproduce the results (on synthetic and real data) presented in the manuscript "Conjugate priors for Bayesian Variable Selection in exponential family Generalized Linear Models" (Preprint arXiv:2606.24357). 
 
 ### To run simulations:
