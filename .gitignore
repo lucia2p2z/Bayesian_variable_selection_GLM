@@ -17,6 +17,9 @@ figures_*/
 figures*/
 *_figures*/
 .DStore
+irls2_normal_start_glm/*
+irls2_normal_start_zero/*
+irls2_start_glm/*
 
 # Example code in package build process
 *-Ex.R
