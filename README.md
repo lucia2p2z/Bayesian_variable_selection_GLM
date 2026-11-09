@@ -4,7 +4,7 @@ To reproduce the results on syntehtic data of the manuscript:
 1. To run: launch the code on files `simulations_with_baselines/config_**_baselines_cd.R` with the desidered hyperparameters.
 2. To plot: launch the code `simulations_with_baselines/plot_**_cd.R` with the corresponding path.
 
-with ** being `binomial`, `gaussian`, `poisson`.
+with `**` being `binomial`, `gaussian`, `poisson`.
 
 
 ## To run experiments on real data:
